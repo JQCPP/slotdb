@@ -850,7 +850,3 @@ SimpleDB/
 ├── simpledb.hpp                     # Legacy C++ client class (deprecated)
 └── client.cc                        # Legacy C++ client example
 ```
-
-## License
-
-MIT
